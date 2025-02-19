@@ -9,5 +9,5 @@ import { TaskManagerComponent } from './task-manager/task-manager.component';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Gerenciador de Tarefas';
+  title = 'ToDo-List';
 }
